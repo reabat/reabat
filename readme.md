@@ -1,7 +1,7 @@
 <img src="./brand_logo_short.png" alt="profile logo"/>
 
 # 💫 About Me:
-Software developer. Building CLI tools, websites, apps and services with Go, JavaScript/Node.js. Writing Bash/Zsh scripts for automation on Arch Linux.
+Software developer, building CLI tools, websites, apps, and services with Go and JavaScript/Node.js. I also write Bash/Zsh scripts to automate workflows on Arch Linux.
 
 ## 🛠️ Experience
 
@@ -9,7 +9,7 @@ Software developer. Building CLI tools, websites, apps and services with Go, Jav
 
 _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
-- Built responsive websites, PWAs, and cross-platform desktop apps (Electron)
+- Built responsive websites, PWAs, web services, SaaS, and cross-platform applications
 - Developed CLI tools and automated workflows using Go, Node.js and Bash/Zsh scripts
 - Created educational and technical content
 - Designed and printed 3D models for prototyping and repair use cases
@@ -73,11 +73,11 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=reabat&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
 [![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
-
+-->
 ## 🤝 Sponsors & Support
 
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
