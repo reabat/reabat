@@ -1,9 +1,9 @@
 <img src="./brand_logo_short.png" alt="profile logo"/>
 
-# 💫 About Me:
+# About Me:
 Software developer, building CLI tools, websites, apps, and services with Go and JavaScript/Node.js. I also write Bash/Zsh scripts to automate workflows on Arch Linux.
 
-## 🛠️ Experience
+## Experience
 
 **Software Developer & IT Specialist**
 
@@ -19,7 +19,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 - Security Systems Engineer – Designed and deployed security solutions and access control systems; authored technical documentation
 - Technical Support Specialist – Diagnosed and repaired PC/laptop hardware and software issues; provided customer support and maintenance services
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -71,14 +71,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 ![](https://nirzak-streak-stats.vercel.app/?user=reabat&theme=nord&hide_border=false)
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=reabat&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
-
-<!-- ## 🌐 Socials:
-
-[![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
-[![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
--->
-## 🤝 Sponsors & Support
+## Sponsors & Support
 
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
 [![Donate Card](https://img.shields.io/badge/Donate-Card-702ff4?style=for-the-badge&labelColor=555555)](https://yoomoney.ru/to/410016288289737)
