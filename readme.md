@@ -67,11 +67,11 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-6F42C1?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=reabat&theme=nord&hide_border=false)
 
-## Sponsors & Support
+## Support
 
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate Card](https://img.shields.io/badge/Donate-Card-702ff4?style=for-the-badge&labelColor=555555)](https://yoomoney.ru/to/410016288289737)
+[![Donate via Card](https://img.shields.io/badge/Donate-via%20Card-702ff4?style=for-the-badge&labelColor=555555)](https://yoomoney.ru/to/410016288289737)
