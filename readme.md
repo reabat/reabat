@@ -69,7 +69,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 ## GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=reabat&theme=nord&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=andmitr&theme=nord&hide_border=false)
 
 ## Support
 
